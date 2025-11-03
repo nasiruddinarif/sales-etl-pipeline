@@ -9,7 +9,6 @@ It reads raw sales data from a CSV file, performs data cleaning and validation, 
 ## ⚙️ Technologies Used
 - Python 3.x  
 - Pandas  
-- SQLite3  
 - Logging module
 
 ---
